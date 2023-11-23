@@ -11,4 +11,4 @@ const connectDB = async () => {
   }
 };
 
-export { connectDB }; // Cambiado de 'export default connectDB;'
+export { connectDB }; 
